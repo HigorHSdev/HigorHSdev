@@ -24,14 +24,6 @@
 
 </div>
 </br>
-<p>Desenvolvedor e estudante de programação, apaixonado por tecnologia e artes
-marciais. Atualmente, estou cursando uma graduação em Análise e Desenvolvimento
-de Sistemas. E estou estudando e aplicando meus conhecimentos exteriormente. Meu
-principal objetivo na área de TI é me tornar um profissional capacitado para dominar
-tecnologias que o mercado espera de um desenvolvedor. Sempre estou disposto a
-estudar e conhecer novas tecnologias que melhorem a produtividade e qualidade do
-trabalho.</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HigorHSdev/HigorHSdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HigorHSdev/HigorHSdev/output/github-contribution-grid-snake.svg">
