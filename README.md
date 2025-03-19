@@ -1,4 +1,5 @@
 ### Hello World, I am Higor 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=763BF7&width=435&lines=Hello+World%2C+I+am+Higor+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me 🚀:
 <p>🧠 Dev em formação na Faculdade Nova Roma (ADS)<p>
