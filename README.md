@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=4000&pause=1000&color=763BF7&width=435&lines=Hello+World%2C+I+am+Higor+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### About Me 🚀:
-<p>🧠 Dev em formação na Faculdade Nova Roma (ADS)<p>
+<p>🧠 Dev em formação<p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/higor._06/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-santana-817a102b7/)
